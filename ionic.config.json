@@ -1,0 +1,8 @@
+{
+  "name": "Crowdfunding",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "01ab00ee"
+}
